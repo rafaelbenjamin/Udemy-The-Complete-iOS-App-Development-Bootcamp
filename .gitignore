@@ -14,6 +14,8 @@ iOS Syllabus.pdf
 # Icon must end with two \r
 Icon
 
+#Property Keys File
+Keys.plist
 
 # Thumbnails
 ._*
