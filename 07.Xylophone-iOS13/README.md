@@ -57,3 +57,6 @@ class ViewController: UIViewController {
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+## Completed app screenshot:
+
+![screen](./Images/07.Xylophone.png)

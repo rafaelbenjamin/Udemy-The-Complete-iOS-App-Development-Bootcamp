@@ -16,3 +16,6 @@ We’re going to make a Magic 8 Ball app. You can ask the app to make all your h
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+## Completed app screenshot:
+
+![screen](./Images/04.Magic-8-ball.png)

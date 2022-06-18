@@ -25,3 +25,10 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+## Completed app screenshot:
+
+![screen](./Images/08.Eggtimer-01.png)
+
+![screen](./Images/08.Eggtimer-02.png)
+
+![screen](./Images/08.Eggtimer-03.png)

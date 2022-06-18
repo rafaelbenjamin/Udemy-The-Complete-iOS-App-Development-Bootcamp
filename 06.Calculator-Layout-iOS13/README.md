@@ -25,3 +25,8 @@ If you get stuck, check out the solution video in the next lesson.
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+## Completed app screenshot:
+
+![screen](./Images/06.Calculator-layout-01.png)
+
+![screen02](./Images/06.Calculator-layout-02.png)
