@@ -17,6 +17,10 @@ Icon
 #Property Keys File
 Keys.plist
 
+#Podfiles
+*/Pods/*
+*/Podfile.lock
+
 # Thumbnails
 ._*
 
