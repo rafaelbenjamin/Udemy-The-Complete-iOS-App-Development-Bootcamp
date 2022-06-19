@@ -16,6 +16,7 @@ Icon
 
 #Property Keys File
 Keys.plist
+GoogleService-Info.plist
 
 #Podfiles
 */Pods/*

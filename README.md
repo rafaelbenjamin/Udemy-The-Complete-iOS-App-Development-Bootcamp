@@ -1,23 +1,5 @@
 Study repository containing the projects from the **iOS & Swift - The Complete iOS App Development Bootcamp** course from Udemy.
 
-Useful links:
-
-|Link | Description |
-|--|--|
-| https://developer.apple.com/documentation/ | Apple API Documentation | 
-| https://developer.apple.com/design/human-interface-guidelines/ | Apple Design Documentation | 
-| https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html | Swift language guide |
-| https://appicon.co/#image-sets | Generate icons and images for iOS/Android development standards | 
-| https://colorhunt.co/ | List of color palettes | 
-| https://www.canva.com/pt_br/ | Create/Inspirations designs| 
-| https://www.simform.com/mobile-patterns/log-in | Example screen patterns | 
-| https://unsplash.com/ | Open-source illustrations | 
-| https://undraw.co/ | Open-source images | 
-| https://fontawesome.com/ | Free icons (a few)| 
-| https://imagecolorpicker.com/ | Pick images color/palette |
-| https://www.dafont.com/ | Fonts download |
-| https://app.quicktype.io/ | Convert Json to custom object |
-
 Projects / Main Topics | Screenshots
 --- | ---
 [Project 1](./01.I%20am%20Rich/) - *I am Rich* <br/><sub> Create new project, Icon design and assets                               </sub> | <img src="./01.I%20am%20Rich/Images/01.I%20am%20Rich.png" width="160"> |
@@ -35,3 +17,36 @@ Projects / Main Topics | Screenshots
 [Project 13](./13.Clima-iOS13/) - *Clima* <br/><sub> Dark mode, Delegates, Protocols, HTTP requests from API, JSON Decoder, Computed properties, Closures, Extensions, Core location                          </sub> | <img src="./13.Clima-iOS13/Images/13.Clima-01.png" width="160"> <img src="./13.Clima-iOS13/Images/13.Clima-02.png" width="160">  |
 [Project 14](./14.ByteCoin-iOS13/) - *Byte Coin* <br/><sub> Challenge based on lessons from project 13                          </sub> | <img src="./14.ByteCoin-iOS13/Images/14.Bytecoin.png" width="160"> |
 [Project 15](./15.Flash-Chat-iOS13/) - *Flash Chat* <br/><sub> Navigation controller, Loops, Cocoapods, Firebase, Firestore, Table views, Xib, Constants file, App lifecycle                          </sub> | <img src="./15.Flash-Chat-iOS13/Images/15.Flashchat-01.png" width="160"> <img src="./15.Flash-Chat-iOS13/Images/15.Flashchat-02.png" width="160"> <img src="./15.Flash-Chat-iOS13/Images/15.Flashchat-03.png" width="160"> <img src="./15.Flash-Chat-iOS13/Images/15.Flashchat-04.png" width="160"> <img src="./15.Flash-Chat-iOS13/Images/15.Flashchat-05.png" width="160">|
+
+
+## Tools
+
+|Link | Description |
+|--|--|
+| https://app.quicktype.io/ | Convert Json to custom object |
+
+## Design
+
+|Link | Description |
+|--|--|
+| https://appicon.co/#image-sets | Generate icons and images for iOS/Android development standards | 
+| https://colorhunt.co/ | List of color palettes | 
+| https://www.canva.com/pt_br/ | Create/Inspirations designs| 
+| https://www.simform.com/mobile-patterns/log-in | Example screen patterns | 
+| https://unsplash.com/ | Open-source illustrations | 
+| https://undraw.co/ | Open-source images | 
+| https://fontawesome.com/ | Free icons (a few)| 
+| https://imagecolorpicker.com/ | Pick images color/palette |
+| https://www.dafont.com/ | Fonts download |
+
+## Documentation
+
+|Link | Description |
+|--|--|
+| https://www.appbrewery.co/p/ios-course-resources/ | Full list of resources from the iOS course |
+| https://www.appbrewery.co/p/appmarketing-course-resources | Full list of resources from the Marketing course |
+| https://www.appbrewery.co/p/appdesign-course-resources/ | Full list of resources from the app Design course |
+| https://developer.apple.com/documentation/ | Apple API Documentation | 
+| https://developer.apple.com/design/human-interface-guidelines/ | Apple Design Documentation | 
+| https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html | Swift language guide |
+| https://github.com/0nn0/terminal-mac-cheatsheet | Mac terminal shortcut list|
