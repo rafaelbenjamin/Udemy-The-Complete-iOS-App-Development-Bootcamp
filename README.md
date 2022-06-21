@@ -24,6 +24,9 @@ Projects / Main Topics | Screenshots
 |Link | Description |
 |--|--|
 | https://app.quicktype.io/ | Convert Json to custom object |
+| https://gitexplorer.com/ | Display desired git commands |
+| https://www.cockos.com/licecap/ | Record screen as gif |
+| https://smalldev.tools/ | Site with various utilities |
 
 ## Design
 
