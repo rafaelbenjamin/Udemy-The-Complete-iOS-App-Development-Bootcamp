@@ -46,9 +46,6 @@ Projects / Main Topics | Screenshots
 
 |Link | Description |
 |--|--|
-| https://www.appbrewery.co/p/ios-course-resources/ | Full list of resources from the iOS course |
-| https://www.appbrewery.co/p/appmarketing-course-resources | Full list of resources from the Marketing course |
-| https://www.appbrewery.co/p/appdesign-course-resources/ | Full list of resources from the app Design course |
 | https://developer.apple.com/documentation/ | Apple API Documentation | 
 | https://developer.apple.com/design/human-interface-guidelines/ | Apple Design Documentation | 
 | https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html | Swift language guide |
